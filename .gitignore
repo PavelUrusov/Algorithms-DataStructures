@@ -1,0 +1,38 @@
+# GoLand-specific
+.idea/
+
+# Compiled Object files, Static and Dynamic libs (Windows, macOS, Linux)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Dependency directories (remove the comment below if you intend to use dep)
+#vendor/
+
+# Compiled Go files
+*.olb
+*.ilb
+*.rsc
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide binary
+.glide/
+
+# Output of go tool trace
+*.trace
+
+# End of https://www.toptal.com/developers/gitignore/api/go,macos,linux,intellij
+
+# GoLand workspace files
+.idea/
+
+# Go Modules
+/go.sum
+/go.mod
