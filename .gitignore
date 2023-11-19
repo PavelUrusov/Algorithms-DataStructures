@@ -16,13 +16,13 @@
 *.ilb
 *.rsc
 
-# Test binary, built with `go test -c`
+# Test RedBlackTree, built with `go test -c`
 *.test
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-# Project-local glide binary
+# Project-local glide RedBlackTree
 .glide/
 
 # Output of go tool trace
